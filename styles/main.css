@@ -2126,11 +2126,6 @@ a:active {
 .page-top .nav a:hover {
   color: #eb5055;
 }
-.page-top .nav a:active {
-  color: #5A5A5A;
-  padding-bottom: 22px;
-  border-bottom: 1px solid #5A5A5A;
-}
 .page-top .information {
   float: right;
   padding-top: 12px;

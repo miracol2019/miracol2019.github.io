@@ -11,7 +11,7 @@
      <div class="sidebar animated fadeInDown">
    <div class="logo-title">
     <div class="title">
-     <img src="https://home.miracol.cn//images/avatar.png?v=1565259616941" style="width:127px;" />
+     <img src="https://home.miracol.cn//images/avatar.png?v=1565263614141" style="width:127px;" />
 
      <h3 title=""><a href="/">老方与小宋</a></h3>
 
@@ -85,7 +85,15 @@
         <h3><a>关于</a></h3>
        </div>
        <div class="post-content">
-        <p>记录生活点滴！</p>
+        <p>我和小宋在一起已经<a><a id="days">0</a>天</a>了！</p>
+<script>
+var s1 = '2017-11-06';//设置为你的建站时间 
+s1 = new Date(s1.replace(/-/g, "/"));
+s2 = new Date();
+var days = s2.getTime() - s1.getTime();
+var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));
+document.getElementById('days').innerHTML = number_of_days;
+</script>
 
        </div>
        <div class="post-footer">

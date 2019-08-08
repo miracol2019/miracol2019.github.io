@@ -2421,7 +2421,7 @@ a:active {
 .page-top .information .back_btn {
   float: left;
   padding-top: 5px;
-  margin-right: -10px;
+  margin-right: -50px;
 }
 .page-top .information .back_btn li {
   display: initial;

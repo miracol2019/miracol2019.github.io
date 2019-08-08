@@ -2912,9 +2912,6 @@ a.btn {
   .footer {
     display: none;
   }
-  .share {
-    display: grid;
-  }
 }
 .jinggetag {
   font-size: 14px;

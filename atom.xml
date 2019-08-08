@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://home.miracol.cn/</id>
     <title>Home</title>
-    <updated>2019-08-08T07:54:08.887Z</updated>
+    <updated>2019-08-08T08:06:28.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://home.miracol.cn/"/>
     <link rel="self" href="https://home.miracol.cn//atom.xml"/>
@@ -11,35 +11,52 @@
     <icon>https://home.miracol.cn//favicon.ico</icon>
     <rights>All rights reserved 2019, Home</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://home.miracol.cn//post/hello-gridea</id>
-        <link href="https://home.miracol.cn//post/hello-gridea">
+        <title type="html"><![CDATA[也许这次真的能成]]></title>
+        <id>https://home.miracol.cn//post/MX2ms2N48</id>
+        <link href="https://home.miracol.cn//post/MX2ms2N48">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <updated>2019-06-17T11:29:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>   山重水复疑无路，柳暗花明又一村。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+        <content type="html"><![CDATA[<p>   山重水复疑无路，柳暗花明又一村。</p>
 <!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<p>   已经两年了！整整的年，我基本上都没有出过门！成为了正宗的宅男！体重也从130多斤变成了近170斤的胖子！这两年里我断绝了和外界的联系！以前的朋友我也不和他们出去了！当然他们也不叫我了！稍微有点尴尬！</p>
+<p>   在这两年的时间里经历很多次的希望，失望，希望再失望！多到我已经记不得了！从以前那些都不敢跟我大声说的人！现在也敢那我和他作比较了！此一时彼一时啊！有许多时候真的有些活够了！但是却又缺少死去的勇气！以前的一切！也都没有了！最心爱的东西也不知道哪里去了！如今剩下的也仅仅有我而已！</p>
+<p>   这两年里虽然苦楚！但是心里的思想确实有些变化！不再像以前那样目中无人！也不再像以前那样高傲自大！其实有时候想想！以后那些应该怎么满对我？应该是在我面前还像以前那样对我恭恭敬敬！然后再背后对别人说我以前怎么的不是。应该是把最难听的话！最龌龊的事都放在了我的身上吧！因为他们不会希望我比他们好！更不愿意相信我从前就比他们好啊！只不过是他们原则性遗忘！<br>
+   这两年虽然改变我了！但是我今生再也不要过这样的日子！我也不喜欢连吃袋方便面都要想想！买一袋方便的钱！够我买一块豆腐！这一块豆腐我能吃多少天！钱真的很重要！穷的只能吃方面那就说明你还不算穷！</p>
+<p>   在这两年来我无时无刻都是看不到希望的！但是活着总会有希望的！不要放弃生的希望！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[也许这就是亲人存在的意义]]></title>
+        <id>https://home.miracol.cn//post/hdsTZix4P</id>
+        <link href="https://home.miracol.cn//post/hdsTZix4P">
+        </link>
+        <updated>2019-06-11T00:01:17.000Z</updated>
+        <summary type="html"><![CDATA[<p>岁月催人老，不老的是亲情。无论我们身处何境，身在何地，亲人永远是我们最坚实的精神支柱，最理想的感情寄托！</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>岁月催人老，不老的是亲情。无论我们身处何境，身在何地，亲人永远是我们最坚实的精神支柱，最理想的感情寄托！</p>
+<!-- more -->
+<p>   最近这两年随着家里的经济不行了，我也有点自暴自弃了。从130斤也胖到了160斤（大概是这个斤数）做什么也没有干劲，属于有点混吃等死的状态吧，一天天头和脸也不洗，这两年我基本上都没有出过屋。但是我哥今天来了。所实话我真的不是特别喜欢。因为屋子里太小了。而且家里也没有钱，这也就是所谓的穷人没有朋友吧。自从没钱以后我也不再和外界联系了。唯一还联系的人也就是远在千里之外的女朋友了！</p>
+<p>   我哥知道我这个情况以后非把我拽出去跟他还有他的女朋友（准嫂子）和我老弟出去溜达，上了夜市、网吧、给买写吃的。其实可以看得出来他确实很关心我。还有把他400多的鼠标给我了，又给我买了一个机械键盘。在走路的时候我哥说“你要是上学没有学费的话我给你拿，我这有。”说实话我挺感动的，因为我知道我哥说的是真心话。并不是其他人那样卖个空人情而已。看我的桌子太小了。要给我从新买张桌子。当然不可能让我哥买。但是这些行为真的很感动。有时候亲人真的只有这个时候才能体现出来亲！我之前的理论真的应该改改了！</p>
+<p>  无论怎么说也还是希望，最后能变好吧！我的亲人，还有我。说实话我这样的日子真的过够了！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜欢一个人不一定就要有结果]]></title>
+        <id>https://home.miracol.cn//post/5yd5z70iF</id>
+        <link href="https://home.miracol.cn//post/5yd5z70iF">
+        </link>
+        <updated>2019-06-09T13:44:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>我住长江头，君住长江尾。日日思君不见君，共饮长江水。</p>
+<p>此水几时休，此恨何时已。只愿君心似我心，定不负相思意。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我住长江头，君住长江尾。日日思君不见君，共饮长江水。</p>
+<p>此水几时休，此恨何时已。只愿君心似我心，定不负相思意。</p>
+<!-- more -->
+<p>   是的曾经我喜欢了以为我本不该喜欢的人！那个女生是我前女友的闺蜜！是的在这件事上我认为我确实算是个渣男！但是我没有做出半点过分的事情！其实那个时候我很想控制住对她的喜欢！可是不知道为什么！就是忘不掉她，越想忘掉却越想她！后来我和我前女友分手了!我想我这次可能有机会了吧！但是这个时候我发现我胆怯了！她是那么的优秀！那么的美丽！美丽到我感觉我就是一只普普通通的昆虫，而她确实美丽的鸟！虽然都是在天上飞行！都是生活在空中！而她离我却那么遥远！遥远到我连看她一眼都是一种奢望！后来我想我如何能离她更近一点点，哪怕就那么一点！我玩了王者荣耀！是的她也玩那个游戏！送给她皮肤她不要！我说我抽奖中的！每天关注着她的朋友圈！她开心我就很开心！虽然我知道朋友圈不一定是真的！也天天盼望着天气什么时候会下雨！什么时候会变冷！什么时候会下雪！这样我好友个理由，给她发条短信！“天冷了，多穿点衣服”每一次的短信都是我用尽了我当时所有的勇气！然后就是我焦急的等待！等待着她的回复！“好的，你也是”当然这傻子都能看出来只不过是客气的回条短信罢了！但是我当时的心情还是很高兴的！</p>
+<p>   后来她有了她的另一半！我看见那天我发现我突然把她放下了！在心里也不再畅想着以后和她在一起我应该如何如何的对她好！是的可能暗恋她的2年多以来！我累了吧！一直在潜意识里找一个放弃的理由！那天我把她的微信删了！毕竟我们不是一个世界的人！也永远都不可能在一起！虽然当时的我不愿承认！</p>
+<p>   最后祝她还有我！以后都会幸福吧！</p>
 ]]></content>
     </entry>
 </feed>

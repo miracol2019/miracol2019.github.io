@@ -2653,6 +2653,14 @@ a.btn {
   height: auto;
   margin: 0 auto;
 }
+ ::selection {
+  background: #eb5055;
+  color: #FFF;
+}
+ ::-moz-selection {
+  background: #eb5055;
+  color: #FFF;
+}
 @media (min-width: 991px) {
   pre code::-webkit-scrollbar {
     height: 6px;

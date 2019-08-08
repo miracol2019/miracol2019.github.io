@@ -2020,7 +2020,7 @@ a:visited {
 }
 a:hover,
 a:active {
-  color: #4786D6;
+  color: #eb5055;
 }
 /*basic styles ends*/
 /*animation starts*/
@@ -2124,7 +2124,7 @@ a:active {
   color: #5A5A5A;
 }
 .page-top .nav a:hover {
-  color: #4786D6;
+  color: #eb5055;
 }
 .page-top .nav a:active {
   color: #5A5A5A;
@@ -2210,7 +2210,7 @@ a:active {
   color: #565654;
 }
 .sidebar .social-links a:hover {
-  color: #4786D6;
+  color: #eb5055;
 }
 .post {
   background-color: #FFF;
@@ -2245,12 +2245,12 @@ a:active {
   color: #5f5f5f;
 }
 .post .post-title a:hover {
-  text-decoration: underline;
+  color: #eb5055;
 }
 .post .post-content a {
   text-decoration: none;
   letter-spacing: 1px;
-  color: #4786D6;
+  color: #eb5055;
 }
 .post .post-content a:hover {
   color: #2F69B3;
@@ -2286,7 +2286,7 @@ a:active {
   padding-right: 10px;
 }
 .post .post-footer .meta a:hover {
-  color: #4786D6;
+  color: #eb5055;
 }
 .post .post-footer .meta i {
   margin-right: 6px;
@@ -2375,7 +2375,7 @@ a:active {
   color: #A6A6A6;
 }
 .footer a:hover {
-  color: #4786D6;
+  color: #eb5055;
 }
 /*for archive*/
 .archive {
@@ -2410,7 +2410,7 @@ a:active {
   color: #8F8F8F;
 }
 .list-with-title .listing .listing-post a:hover {
-  color: #4786D6;
+  color: #eb5055;
 }
 /* share */
 .share {
@@ -2523,13 +2523,13 @@ a.btn {
   display: inline-block;
   position: relative;
   outline: 0px;
-  color: #464545;
+  color: #eb5055;
   background: transparent;
   font-size: 14px;
   text-align: center;
   text-decoration: none;
   cursor: pointer;
-  border: 1px solid #464545;
+  border: 1px solid #eb5055;
   white-space: nowrap;
   font-weight: 400;
   font-style: normal;

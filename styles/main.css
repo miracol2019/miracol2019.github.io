@@ -2754,7 +2754,35 @@ a.btn {
   color: #718096;
   text-decoration: line-through;
 }
- ::selection {
+.img-round-square {
+  width: 127px;
+  height: 127px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+}
+.img-round-square:hover {
+  -moz-border-radius: 0%;
+  -webkit-border-radius: 0%;
+  -o-border-radius: 0%;
+  border-radius: 0%;
+}
+.img-round-square {
+  transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+}
+.img-round-square:hover {
+  transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+}
+::selection {
   background: #eb5055;
   color: #FFF;
 }

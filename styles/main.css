@@ -2756,7 +2756,6 @@ a.btn {
 }
 .img-round-square {
   width: 127px;
-  height: 127px;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
   -o-border-radius: 50%;

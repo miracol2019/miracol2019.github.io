@@ -1,102 +1,19 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
- <head>
-    <meta charset="utf-8" />
- <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
-  <title>Home</title>
-  <link rel="stylesheet" href="https://fands.top//styles/main.css" />
-  <script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js"></script>
-  <script src="https://fands.top//media/scripts/script.js"></script>
- </head>
- <body>
-     <div class="sidebar animated fadeInDown">
-   <div class="logo-title">
-    <div class="title">
-     <img src="https://fands.top//images/avatar.png?v=1565339026415" style="width:127px;" />
-
-     <h3 title=""><a href="/">老方与小宋</a></h3>
-
-     <div class="description">
-      <p>努力一起变好</p>
-     </div>
-    </div>
-   </div>
-   <ul class="social-links">
-
-
-    <li><a href="https://home.miracol.cn/atom.xml"><i class="fa fa-rss"></i></a></li>
- 
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-   </ul>
-   <div class="footer">
-    <div class="by_farbox">
-    <div class="by_farbox">
-     <a href="/">Write by 老方与小宋 &copy;</a>
-    </div>
-    </div>
-    
-
-    </div>
-   </div>
-  </div>
-  <div class="main">
-      <div class="page-top animated fadeInDown">
-    <div class="nav">
-
-     <li><a  href="/">首页</a></li>
-
-     <li><a  href="/archives">归档</a></li>
-
-     <li><a  href="/tags">标签</a></li>
-
-     <li><a  href="/post/about">关于</a></li>
-
-
-    </div>
-    <div class="information">
-     <div class="back_btn">
-      <li><a class="fa fa-chevron-left" onclick="window.history.go(-1)" style="display:none;"> </a></li>
-     </div>
-    </div>
-   </div>
-   <div class="autopagerize_page_element">
-    <div class="content">
-       <script type="text/javascript" src="https://fands.top//media/scripts/jquery-jvectormap-1.2.2.min.js"></script>
-       <link href="https://fands.top//media/scripts/jquery-jvectormap-1.2.2.css" rel="stylesheet" media="screen">
-       <script type="text/javascript" src="https://fands.top//media/scripts/jquery-jvectormap-cn-merc-en.js"></script>
-     <div class="post animated fadeInDown">
+<html>
+	<head>
+<meta charset="UTF-8">
+        <script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js"></script>
+		<script type="text/javascript" src="https://fands.top//media/scripts/jquery-jvectormap-1.2.2.min.js"></script>
+		<link href="https://fands.top//media/scripts/jquery-jvectormap-1.2.2.css" rel="stylesheet" media="screen">
+		<script type="text/javascript" src="https://fands.top//media/scripts/jquery-jvectormap-cn-merc-en.js"></script>
+	</head>
+<body>
 	<div id="map" style="background-color:#353535"> </div>
 	<script>
 		$('#map').vectorMap({
-
-			// 此处更改地图
-			map: 'cn_merc_en',   // 中国地图
-			//map: 'us_aea',     // 美国地图
-			//map: 'world_mill', // 世界地图
-
-
+			map: 'cn_merc_en', 
 			backgroundColor: 'transparent',
-			zoomMin: 0.9, // 鼠标缩放时的最小比例
-			zoomMax: 2.4, // 鼠标缩放时的最大比例
+			zoomMin: 0.9,
+			zoomMax: 2.4, 
 			focusOn: {
 				x: 0.55,
 				y: 2,
@@ -104,14 +21,14 @@
 			},
 			regionStyle: {
 				initial: {
-					fill: '#e5e5e5',   // 地图颜色
-					"fill-opacity": 1, // 省份（州）是否隐藏，鼠标滑动时显示; 1：显示，2：隐藏。
+					fill: '#e5e5e5',  
+					"fill-opacity": 1, 
 					stroke: 'none',
 					"stroke-width": 0,
 					"stroke-opacity": 1
 				},
 				hover: {
-					fill: '#ccc',  // 鼠标滑动至某省份的高亮颜色。
+					fill: '#ccc',
 					"fill-opacity": 0.8
 				},
 				selected: {
@@ -121,39 +38,20 @@
 			},
 			markerStyle: {
 		        initial: {
-		            fill: '#fd8888', // 足迹位置的填充颜色
-		            stroke: '#fff'   // 足迹位置的描边颜色
+		            fill: '#fd8888', 
+		            stroke: '#fff'  
 		        },
 				hover: {
-					fill: '#fd2020', // 鼠标滑动至足迹位置后的填充颜色
-					stroke: '#fff',  // 鼠标滑动至足迹位置后的描边颜色
+					fill: '#fd2020', 
+					stroke: '#fff', 
 					"fill-opacity": 0.8
 				},
 		    },
-			markers: [ // 足迹位置
-
-				// {latLng: [经度（保留两位小数）, 纬度（保留两位小数）], name: '城市名称'},
-				// 推荐查询经纬度网站：http://www.gpsspg.com/maps.htm
-
-		        {latLng: [39.90, 116.41], name: '北京'},
-		        {latLng: [31.24, 121.50], name: '上海'},
-
-		        {latLng: [46.06, 122.06], name: '内蒙古 - 乌兰浩特'}
+			markers: [ 
+			
+		    ]
+		});
 		    ]
 		});
 	</script>
-
-
-      </div>
-     </div>
-    
-  
-    </div>
-   </div>
-  </div>
- 
- <script src="https://cdn.staticfile.org/jquery.appear/0.4.1/jquery.appear.min.js"></script>
-
-
- </body>
 </html>

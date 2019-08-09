@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://home.miracol.cn/</id>
+    <id>https://fands.top/</id>
     <title>Home</title>
-    <updated>2019-08-09T04:31:26.370Z</updated>
+    <updated>2019-08-09T05:32:02.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://home.miracol.cn/"/>
-    <link rel="self" href="https://home.miracol.cn//atom.xml"/>
+    <link rel="alternate" href="https://fands.top/"/>
+    <link rel="self" href="https://fands.top//atom.xml"/>
     <subtitle>努力一起变好</subtitle>
-    <logo>https://home.miracol.cn//images/avatar.png</logo>
-    <icon>https://home.miracol.cn//favicon.ico</icon>
+    <logo>https://fands.top//images/avatar.png</logo>
+    <icon>https://fands.top//favicon.ico</icon>
     <rights>All rights reserved 2019, Home</rights>
     <entry>
         <title type="html"><![CDATA[也许这次真的能成]]></title>
-        <id>https://home.miracol.cn//post/MX2ms2N48</id>
-        <link href="https://home.miracol.cn//post/MX2ms2N48">
+        <id>https://fands.top//post/MX2ms2N48</id>
+        <link href="https://fands.top//post/MX2ms2N48">
         </link>
         <updated>2019-06-17T11:29:53.000Z</updated>
         <summary type="html"><![CDATA[<p>   山重水复疑无路，柳暗花明又一村。</p>

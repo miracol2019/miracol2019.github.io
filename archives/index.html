@@ -7,14 +7,13 @@
   <link rel="stylesheet" href="https://fsboke.top/styles/main.css" />
   <script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://fsboke.top/media/scripts/script.js"></script>
-  
-  <script src="https://cdn.staticfile.org/jquery.pjax/2.0.1/jquery.pjax.min.js" type="text/javascript"></script>
+
  </head>
  <body>
          <div class="sidebar animated fadeInDown">
    <div class="logo-title">
     <div class="title">
-     <img class="img-round-square"   src="https://fsboke.top/images/avatar.png?v=1565439736295"  />
+     <img class="img-round-square"   src="https://fsboke.top/images/avatar.png?v=1565503534845"  />
 
      <h3 title=""><a href="/">老方与小宋</a></h3>
 
@@ -120,22 +119,7 @@
  <script type="text/javascript">
         !function (e, t, a) {function r() {for (var e = 0; e < s.length; e++) s[e].alpha <= 0 ? (t.body.removeChild(s[e].el), s.splice(e, 1)) : (s[e].y--, s[e].scale += .004, s[e].alpha -= .013, s[e].el.style.cssText = "left:" + s[e].x + "px;top:" + s[e].y + "px;opacity:" + s[e].alpha + ";transform:scale(" + s[e].scale + "," + s[e].scale + ") rotate(45deg);background:" + s[e].color + ";z-index:99999");requestAnimationFrame(r)}function n() {var t = "function" == typeof e.onclick && e.onclick;e.onclick = function (e) {t && t(), o(e)}}function o(e) {var a = t.createElement("div");a.className = "heart", s.push({el: a,x: e.clientX - 5,y: e.clientY - 5,scale: 1,alpha: 1,color: c()}), t.body.appendChild(a)}function i(e) {var a = t.createElement("style");a.type = "text/css";try {a.appendChild(t.createTextNode(e))} catch (t) {a.styleSheet.cssText = e}t.getElementsByTagName("head")[0].appendChild(a)}function c() {return "rgb(" + ~~(255 * Math.random()) + "," + ~~(255 * Math.random()) + "," + ~~(255 * Math.random()) + ")"}var s = [];e.requestAnimationFrame = e.requestAnimationFrame || e.webkitRequestAnimationFrame || e.mozRequestAnimationFrame || e.oRequestAnimationFrame || e.msRequestAnimationFrame || function (e) {setTimeout(e, 1e3 / 60)}, i(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"), n(), r()}(window, document);
 </script>
-<script type="text/javascript">
-$(document).pjax('a[target!=_blank]', '.content', {fragment: '.content',timeout: 8000}); //#wrap为刷新的id
-    $(document).on('pjax:send', function() {
-    $(".loading").css("display", "block");
-    //预加载函数可写在这里
-});
 
-$(document).on('pjax:complete', function() {
-    //回调函数
-    $("img[src$=jpg],img[src$=jpeg],img[src$=png],img[src$=gif]").parent("a[class!=noview]").addClass("swipebox");
-    if( $('pre').length ){ prettyPrint(); }     //回调函数解决文章页代码不高亮的问题
-    $(".loading").css("display", "none");
-    //pjax加载结束的回调函数 解决js无法定位的问题
-    //重新定位容器内容的函数写在这里
-});
-</script>
 
  </body>
 </html>

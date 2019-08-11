@@ -2692,6 +2692,9 @@ a.btn {
 .post-content .task-list-item {
   position: relative;
 }
+.post-content p {
+  font-size: 16px;
+}
 .post-content li {
   margin-bottom: 0.2em;
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://day.fands.top</id>
     <title>日记本</title>
-    <updated>2019-08-15T11:29:22.179Z</updated>
+    <updated>2019-08-16T06:00:34.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://day.fands.top"/>
     <link rel="self" href="http://day.fands.top/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>http://day.fands.top/images/avatar.png</logo>
     <icon>http://day.fands.top/favicon.ico</icon>
     <rights>All rights reserved 2019, 日记本</rights>
+    <entry>
+        <title type="html"><![CDATA[19.8.16]]></title>
+        <id>http://day.fands.top/post/19816</id>
+        <link href="http://day.fands.top/post/19816">
+        </link>
+        <updated>2019-08-16T05:59:42.000Z</updated>
+        <content type="html"><![CDATA[<p>今天不舒心！学校不稳妥哎！没啥想说的了！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2019.8.15]]></title>
         <id>http://day.fands.top/post/2019815</id>

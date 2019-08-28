@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://fands.top/</id>
+    <id>https://day.fands.top/</id>
     <title>日记本</title>
-    <updated>2019-08-28T16:17:28.905Z</updated>
+    <updated>2019-08-28T16:23:38.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://fands.top/"/>
-    <link rel="self" href="https://fands.top//atom.xml"/>
+    <link rel="alternate" href="https://day.fands.top/"/>
+    <link rel="self" href="https://day.fands.top//atom.xml"/>
     <subtitle>努力一起变好</subtitle>
-    <logo>https://fands.top//images/avatar.png</logo>
-    <icon>https://fands.top//favicon.ico</icon>
+    <logo>https://day.fands.top//images/avatar.png</logo>
+    <icon>https://day.fands.top//favicon.ico</icon>
     <rights>All rights reserved 2019, 日记本</rights>
     <entry>
         <title type="html"><![CDATA[19.8.23]]></title>
-        <id>https://fands.top//post/19823</id>
-        <link href="https://fands.top//post/19823">
+        <id>https://day.fands.top//post/19823</id>
+        <link href="https://day.fands.top//post/19823">
         </link>
         <updated>2019-08-23T09:42:39.000Z</updated>
         <summary type="html"><![CDATA[<p>今天我哥走了！住了两天。</p>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[19.8.21]]></title>
-        <id>https://fands.top//post/19821</id>
-        <link href="https://fands.top//post/19821">
+        <id>https://day.fands.top//post/19821</id>
+        <link href="https://day.fands.top//post/19821">
         </link>
         <updated>2019-08-21T10:44:31.000Z</updated>
         <summary type="html"><![CDATA[<p>今天没有什么事情，下午去买点菜</p>
@@ -36,8 +36,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[19.8.17]]></title>
-        <id>https://fands.top//post/19817</id>
-        <link href="https://fands.top//post/19817">
+        <id>https://day.fands.top//post/19817</id>
+        <link href="https://day.fands.top//post/19817">
         </link>
         <updated>2019-08-17T08:39:38.000Z</updated>
         <summary type="html"><![CDATA[<p>事情有了新的转机！希望能成吧！</p>
@@ -48,8 +48,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[19.8.16]]></title>
-        <id>https://fands.top//post/19816</id>
-        <link href="https://fands.top//post/19816">
+        <id>https://day.fands.top//post/19816</id>
+        <link href="https://day.fands.top//post/19816">
         </link>
         <updated>2019-08-16T05:59:42.000Z</updated>
         <summary type="html"><![CDATA[<p>今天不舒心！学校不稳妥哎！没啥想说的了！</p>
@@ -60,8 +60,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2019.8.15]]></title>
-        <id>https://fands.top//post/2019815</id>
-        <link href="https://fands.top//post/2019815">
+        <id>https://day.fands.top//post/2019815</id>
+        <link href="https://day.fands.top//post/2019815">
         </link>
         <updated>2019-08-15T11:26:58.000Z</updated>
         <summary type="html"><![CDATA[<p>今天在家宅了一天，没发什么，晚上出去取了快递，和买了10根老冰棍！</p>
@@ -72,8 +72,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2019.8.14]]></title>
-        <id>https://fands.top//post/2019814</id>
-        <link href="https://fands.top//post/2019814">
+        <id>https://day.fands.top//post/2019814</id>
+        <link href="https://day.fands.top//post/2019814">
         </link>
         <updated>2019-08-14T13:36:38.000Z</updated>
         <summary type="html"><![CDATA[<p>今天做了一个日记的博客！主要目的就是记录下生活的样子！以后每天写写日记！</p>
@@ -84,8 +84,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[也许这次真的能成]]></title>
-        <id>https://fands.top//post/MX2ms2N48</id>
-        <link href="https://fands.top//post/MX2ms2N48">
+        <id>https://day.fands.top//post/MX2ms2N48</id>
+        <link href="https://day.fands.top//post/MX2ms2N48">
         </link>
         <updated>2019-06-17T11:29:53.000Z</updated>
         <summary type="html"><![CDATA[<p>   山重水复疑无路，柳暗花明又一村。</p>

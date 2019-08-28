@@ -45,6 +45,7 @@
 .fang {
   border-radius: 10px;
   margin-top: 30px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.14);
 }
 .min {
   margin-left: 30px;

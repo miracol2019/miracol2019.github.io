@@ -42,21 +42,27 @@
 .icon-yun-copy:before {
   content: "\e7ee";
 }
-.fang {
+.wo {
   border-radius: 10px;
   margin-top: 30px;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.14);
 }
-.min {
+.hen {
   margin-left: 30px;
 }
-.cheng {
+.hao {
   border-right-color: #bcbcbc38;
   border-right-style: solid;
   border-right-width: 1px;
 }
 .index-jianjie {
   color: #bcbcbc;
+}
+.index-jianjie p {
+  word-break: keep-all;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .yinyong {
   margin-top: 5px;

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://day.fands.top/</id>
     <title>日记本</title>
-    <updated>2019-08-29T06:07:43.171Z</updated>
+    <updated>2019-08-29T06:08:36.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://day.fands.top/"/>
     <link rel="self" href="https://day.fands.top//atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://day.fands.top//post/xin-zhu-ti">
         </link>
         <updated>2019-08-29T06:05:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>昨天晚上给日记写了个新的主题！哈哈，很喜欢，我实在是太牛逼了！</p>
+]]></summary>
         <content type="html"><![CDATA[<p>昨天晚上给日记写了个新的主题！哈哈，很喜欢，我实在是太牛逼了！</p>
+<!-- more -->
 ]]></content>
     </entry>
     <entry>

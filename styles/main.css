@@ -55,6 +55,12 @@
   border-right-style: solid;
   border-right-width: 1px;
 }
+.song {
+  transition: all 0.4s;
+}
+.song:hover {
+  transform: scale(1.03, 1.03);
+}
 .index-jianjie {
   color: #bcbcbc;
 }
